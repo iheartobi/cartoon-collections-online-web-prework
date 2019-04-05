@@ -3,3 +3,5 @@ def roll_call_dwarves(dwarfs)
      puts "#{i + 1}  #{name}"
   end
 end 
+def 
+end 
