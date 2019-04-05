@@ -13,7 +13,8 @@ def long_planeteer_calls(long_calls)
     call.length > 4
  end 
 end
-def find_the_cheese(cheese)
-  cheese.find do |cheese|
+def find_the_cheese(cheddar_cheese)
+  cheddar_cheese = ["banana", "cheddar", "sock"]
+  cheddar_cheese.find do |cheese|
  end
 end 
