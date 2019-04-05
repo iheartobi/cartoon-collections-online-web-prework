@@ -8,3 +8,7 @@ def summon_captain_planet(veggies)
     call.capitalize + "!"
  end
 end
+def long_planeteer_calls(long_calls)
+  long_calls.any? do |call|
+    call.length > 4
+end 
