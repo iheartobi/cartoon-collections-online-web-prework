@@ -3,5 +3,7 @@ def roll_call_dwarves(dwarfs)
      puts "#{i + 1}  #{name}"
   end
 end 
-def 
+def summon_captain_planet(veggies)
+  veggies.each.do |call|
+    call.capitalize + "!"
 end 
